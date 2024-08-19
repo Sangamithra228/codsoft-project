@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Cultural Heritage and Tradition</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #8e44ad;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .image-container {
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 20px;
+        }
+
+        .image-container img {
+            max-width: 30%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #8e44ad;
+            margin-top: 20px;
+        }
+
+        p {
+            margin-bottom: 20px;
+            text-align: justify;
+        }
+
+        footer {
+            background-color: #8e44ad;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tribute to Cultural Heritage and Tradition</h1>
+    </header>
+
+    <div class="container">
+        <div class="image-container">
+            <img src="https://static.toiimg.com/thumb/msid-83541754,width-748,height-499,resizemode=4,imgsize-1198791/Traditional-classical-dance-forms-that-originated-in-Kerala.jpg" alt="Traditional Dance">
+            <img src="https://static.toiimg.com/thumb/msid-83541770,width-748,height-499,resizemode=4,imgsize-302265/Mohiniyattam.jpg" alt="Folk Art">
+            <img src="https://static.toiimg.com/thumb/msid-83541788,width-748,height-499,resizemode=4,imgsize-125256/Ottan-Thullal.jpg"" alt="Cultural Festival">
+        </div>
+
+        <h2>Preserving the Past</h2>
+        <p>
+            Cultural heritage connects us to our ancestors, providing a sense of continuity and belonging. From ancient rituals to traditional crafts, these practices offer insights into the wisdom and way of life of those who came before us. They serve as a bridge between the past and the present, ensuring that the stories, lessons, and achievements of our forebears are not forgotten.
+        </p>
+
+        <h2>Celebrating Diversity</h2>
+        <p>
+            Each culture brings its unique flavor to the world, contributing to the vibrant mosaic of human civilization. Whether it's the intricate patterns of a traditional dance, the melodic rhythms of folk music, or the communal celebrations of festivals, these traditions enrich our lives and foster a deeper understanding and appreciation of different ways of living.
+        </p>
+
+        <h2>The Role of Tradition in Modern Life</h2>
+        <p>
+            While the world rapidly changes, traditions provide a grounding force, reminding us of our roots and guiding us through the complexities of modern life. They offer continuity in times of change, and their enduring relevance helps us navigate our roles in the broader cultural landscape.
+        </p>
+
+        <h2>Protecting Cultural Heritage</h2>
+        <p>
+            In a globalized world, the preservation of cultural heritage is more important than ever. This tribute page recognizes the efforts of individuals and communities who work tirelessly to protect and revitalize endangered traditions, ensuring that they remain a living part of our collective heritage.
+        </p>
+    </div>
+    </footer>
+</body>
+</html>
